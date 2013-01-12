@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2012-11-24 13:15+0200"
+"POT-Creation-Date: 2013-01-12 14:24+0200"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -125,8 +125,8 @@ msgctxt "ViewDist"
 msgid "View distance"
 msgstr ""
 
-msgctxt "OpponentsList"
-msgid "Opponents List"
+msgctxt "SimMode"
+msgid "Simulation mode (difficulty)"
 msgstr ""
 
 msgctxt "RplParticles"
@@ -410,7 +410,7 @@ msgid "Filter"
 msgstr ""
 
 msgctxt "TipGrTerMaxAngle"
-msgid "Terrain angle above which there won't be any grass."
+msgid "Terrain angle above which there won't be any grass (starts fading out, for smooth angle)."
 msgstr ""
 
 msgctxt "Materials"
@@ -450,7 +450,7 @@ msgid "Car description text."
 msgstr ""
 
 msgctxt "TipGrTerMaxHeight"
-msgid "Terrain height above which there won't be any grass (starts fading out for 20m)."
+msgid "Terrain height above which there won't be any grass (starts fading out, for smooth distance)."
 msgstr ""
 
 msgctxt "InputRoadNew"
@@ -553,6 +553,10 @@ msgctxt "InputBrushPower"
 msgid "; &apos;  (or alt-Wheel)  -  Power exponent"
 msgstr ""
 
+msgctxt "trailColor"
+msgid "trail color"
+msgstr ""
+
 msgctxt "UnitKm"
 msgid "km"
 msgstr ""
@@ -563,6 +567,10 @@ msgstr ""
 
 msgctxt "InputObjectsSimulate"
 msgid "C - simulation toggle for dynamic objects"
+msgstr ""
+
+msgctxt "OpponentsList"
+msgid "Opponents List"
 msgstr ""
 
 msgctxt "BackMenu"
@@ -882,7 +890,7 @@ msgid "Fluids"
 msgstr ""
 
 msgctxt "TipGrDensSmooth"
-msgid "Grass density map - smooth size"
+msgid "Grass density map - smooth size. Higher will make a smoother transition from road to grass."
 msgstr ""
 
 msgctxt "NetNickname"
@@ -967,6 +975,10 @@ msgstr ""
 
 msgctxt "TipSkyMats"
 msgid "Sky material names (from SkyDome.material)."
+msgstr ""
+
+msgctxt "Simulation"
+msgid "Simulation"
 msgstr ""
 
 msgctxt "HDRVignettingDarkness"
@@ -1250,7 +1262,7 @@ msgid "0   - set checkpoint as first  (1)"
 msgstr ""
 
 msgctxt "TipModelPageLength"
-msgid "Models Page length (low will reload often, high will cause visible switching)."
+msgid "Models Page length (low will reload often and make too many batches, high will cause visible switching and make too many drawn triangles)."
 msgstr ""
 
 msgctxt "LightmapSize"
@@ -1322,7 +1334,7 @@ msgid "start"
 msgstr ""
 
 msgctxt "TipGrTerMinHeight"
-msgid "Terrain height below which there won't be any grass (starts fading out for 20m)."
+msgid "Terrain height below which there won't be any grass (starts fading out, for smooth distance)."
 msgstr ""
 
 msgctxt "SkirtHeight"
@@ -1541,12 +1553,16 @@ msgctxt "InputRoadIns"
 msgid "Ins - insert new (after picked, alt - before)"
 msgstr ""
 
-msgctxt "trailColor"
-msgid "trail color"
+msgctxt "TweakEdit1"
+msgid "Alt-Z - toggle tweak window (car edit)"
 msgstr ""
 
 msgctxt "min"
 msgid "min"
+msgstr ""
+
+msgctxt "smooth"
+msgid "smooth"
 msgstr ""
 
 msgctxt "InputStartAltMMB"
@@ -1703,6 +1719,10 @@ msgstr ""
 
 msgctxt "TipGrassSwaySpd"
 msgid "Grass sway effect speed."
+msgstr ""
+
+msgctxt "SimModeEasy"
+msgid "Easy (beginner)"
 msgstr ""
 
 msgctxt "Sky"
@@ -1917,6 +1937,10 @@ msgctxt "FrameSkip"
 msgid "Frames skip"
 msgstr ""
 
+msgctxt "TweakEdit2"
+msgid "Alt-Shift-Z - save file and reload game"
+msgstr ""
+
 msgctxt "InputTrackScrn"
 msgid "(for track screenshot)"
 msgstr ""
@@ -2126,7 +2150,7 @@ msgid "Space - pick one/none"
 msgstr ""
 
 msgctxt "TipSceneryId"
-msgid "Scenery id (numeric value 0-20) for identifying unique lightings group on track. Used for impostors generation."
+msgid "Name id of track, that has similar lighting (or this track's if has unique). Used for impostors generation."
 msgstr ""
 
 msgctxt "TipTrkViewShort"
@@ -2438,7 +2462,7 @@ msgid "About"
 msgstr ""
 
 msgctxt "TipModelVisDist"
-msgid "Visibility distance for model pages."
+msgid "Visibility distance for 3d models, after this they turn into 2d impostors."
 msgstr ""
 
 msgctxt "NetAddress"
@@ -2589,8 +2613,16 @@ msgctxt "TipNewTerrainFlat"
 msgid "Create new, flat terrain."
 msgstr ""
 
+msgctxt "UserDir"
+msgid "User Path (logs, configs, user data, etc)"
+msgstr ""
+
 msgctxt "Far"
 msgid "Far"
+msgstr ""
+
+msgctxt "TipGrassLayerDens"
+msgid "Grass density for layer (how often it will appear)."
 msgstr ""
 
 msgctxt "RplGhosts"
@@ -2615,10 +2647,6 @@ msgstr ""
 
 msgctxt "NetMasterIp"
 msgid "Master Server IP"
-msgstr ""
-
-msgctxt "TipSurfFrict2"
-msgid "Not used."
 msgstr ""
 
 msgctxt "Change"
@@ -2677,6 +2705,10 @@ msgctxt "InputRoadModify"
 msgid "Modify"
 msgstr ""
 
+msgctxt "TextColor"
+msgid "Text color"
+msgstr ""
+
 msgctxt "TipFogStartDist"
 msgid "Fog start distance [meters]."
 msgstr ""
@@ -2718,7 +2750,7 @@ msgid "Smooth size"
 msgstr ""
 
 msgctxt "TipGrassDens"
-msgid "Grass density for layer (how often it will appear)."
+msgid "How dense/rare will the grass be on terrain."
 msgstr ""
 
 msgctxt "Find"
@@ -2905,6 +2937,10 @@ msgctxt "NewGame"
 msgid "New Game"
 msgstr ""
 
+msgctxt "StartInMain"
+msgid "Start in main menu"
+msgstr ""
+
 msgctxt "AngleMin"
 msgid "Angle Min"
 msgstr ""
@@ -2978,7 +3014,7 @@ msgid "Used"
 msgstr ""
 
 msgctxt "TipImpDist"
-msgid "Far distance at which models will turn into 2d impostors."
+msgid "Far distance at which the 2d impostors dissapear."
 msgstr ""
 
 msgctxt "InputMapGeneral"
@@ -3019,6 +3055,10 @@ msgstr ""
 
 msgctxt "TipTerLHSm"
 msgid "Height smooth range (transition)."
+msgstr ""
+
+msgctxt "SimModeNormal"
+msgid "Normal (simulation)"
 msgstr ""
 
 msgctxt "TipTerrainGenerate"
