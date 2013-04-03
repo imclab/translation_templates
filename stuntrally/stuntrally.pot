@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-03-10 23:55+0200"
+"POT-Creation-Date: 2013-04-03 23:21+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -137,6 +137,10 @@ msgctxt "Road_Roll"
 msgid "Roll"
 msgstr ""
 
+msgctxt "TipFogHStart"
+msgid "Height fog start height [meters] at which fog starts getting denser for smooth distance."
+msgstr ""
+
 msgctxt "PostfilterAA"
 msgid "Post-filter antialiasing"
 msgstr ""
@@ -219,10 +223,6 @@ msgstr ""
 
 msgctxt "GraphicsAll_Low"
 msgid "Low"
-msgstr ""
-
-msgctxt "TipPrevWind"
-msgid "Preview camera window."
 msgstr ""
 
 msgctxt "ChampEndFinished"
@@ -314,7 +314,7 @@ msgid "View Front"
 msgstr ""
 
 msgctxt "InputObjectsScale"
-msgid "alt-LMB - scale   alt-RMB - scale Y only"
+msgid "3 - Scale   LMB - uniform XYZ  RMB: Y  MMB: Z"
 msgstr ""
 
 msgctxt "TipTerLNoiseOnly"
@@ -409,6 +409,10 @@ msgctxt "ShadowFilter"
 msgid "Filter"
 msgstr ""
 
+msgctxt "Rivers"
+msgid "Rivers"
+msgstr ""
+
 msgctxt "TipGrTerMaxAngle"
 msgid "Terrain angle above which there won't be any grass (starts fading out, for smooth angle)."
 msgstr ""
@@ -469,8 +473,8 @@ msgctxt "TerUpdSkip"
 msgid "Terrain update skip"
 msgstr ""
 
-msgctxt "InputObjects1"
-msgid "1 - reset rotation"
+msgctxt "TipDisableFog"
+msgid "Disable fog when editing road from distance."
 msgstr ""
 
 msgctxt "Input"
@@ -1117,8 +1121,16 @@ msgctxt "InputDetailPreset"
 msgid "Set from preset"
 msgstr ""
 
+msgctxt "InputObjectsRotReset"
+msgid "shift-2 - reset rotation"
+msgstr ""
+
 msgctxt "Road_Length"
 msgid "Length"
+msgstr ""
+
+msgctxt "TipFogClr2"
+msgid "Fog end color when looking away from sun."
 msgstr ""
 
 msgctxt "MinimapAndSize"
@@ -1185,10 +1197,6 @@ msgctxt "TipGrassPatchLengthMax"
 msgid "Maximal grass patch length."
 msgstr ""
 
-msgctxt "TipRoadParams"
-msgid "Road point parameters."
-msgstr ""
-
 msgctxt "ssao"
 msgid "SSAO"
 msgstr ""
@@ -1198,7 +1206,7 @@ msgid "max"
 msgstr ""
 
 msgctxt "InputObjectsMove"
-msgid "LMB - move   RMB - height"
+msgid "1 - Move   LMB - plane XZ  RMB - Y height"
 msgstr ""
 
 msgctxt "Stage"
@@ -1223,6 +1231,10 @@ msgstr ""
 
 msgctxt "HDRAdaptationScale"
 msgid "Adapt Scale"
+msgstr ""
+
+msgctxt "FogHeight"
+msgid "Height"
 msgstr ""
 
 msgctxt "difficulty"
@@ -1281,6 +1293,10 @@ msgctxt "RoadQual"
 msgid "Road far quality"
 msgstr ""
 
+msgctxt "TipFogHSmooth"
+msgid "Height fog smooth distance [meters]."
+msgstr ""
+
 msgctxt "Brush_Shape"
 msgid "Shape"
 msgstr ""
@@ -1291,6 +1307,10 @@ msgstr ""
 
 msgctxt "DynamicObjects"
 msgid "Dynamic Objects"
+msgstr ""
+
+msgctxt "TipFogClrH"
+msgid "Fog color for height fog."
 msgstr ""
 
 msgctxt "ColumnNSides"
@@ -1307,10 +1327,6 @@ msgstr ""
 
 msgctxt "Brushes"
 msgid "Brushes"
-msgstr ""
-
-msgctxt "Exponent"
-msgid "exponent"
 msgstr ""
 
 msgctxt "InputFluidsPrevNext"
@@ -1417,6 +1433,10 @@ msgctxt "InputRplCtrl1"
 msgid "Backspace - show/hide controls (hold ctrl to use mouse)"
 msgstr ""
 
+msgctxt "TipFogClrRGBA"
+msgid "R G B A components 0 to 1 (eg. 0.7 0.8 0.9 1). Last can be used to lower maximum density (1 is full)."
+msgstr ""
+
 msgctxt "InputBrushParams"
 msgid "Brush parameters"
 msgstr ""
@@ -1499,10 +1519,6 @@ msgstr ""
 
 msgctxt "ApplyShadows"
 msgid "Apply Shadows"
-msgstr ""
-
-msgctxt "TipFogEndClr"
-msgid "Fog end color. R G B components 0 to 1 (eg. 0.7 0.8 0.9)"
 msgstr ""
 
 msgctxt "TipGrassColorMap"
@@ -1635,10 +1651,6 @@ msgstr ""
 
 msgctxt "InputObjectsDel"
 msgid "Del - delete current"
-msgstr ""
-
-msgctxt "Mode"
-msgid "mode"
 msgstr ""
 
 msgctxt "NetWrongPassword"
@@ -1799,6 +1811,10 @@ msgstr ""
 
 msgctxt "ShowPictures"
 msgid "Show pictures while loading"
+msgstr ""
+
+msgctxt "dust"
+msgid "dust"
 msgstr ""
 
 msgctxt "distance"
@@ -1965,6 +1981,10 @@ msgctxt "ObjDynamic"
 msgid "Dynamic"
 msgstr ""
 
+msgctxt "TipGrassLayers"
+msgid "Grass layers. Recommended use 1-4."
+msgstr ""
+
 msgctxt "TerGenScale"
 msgid "Scale Height"
 msgstr ""
@@ -2011,10 +2031,6 @@ msgstr ""
 
 msgctxt "InputRoadRMB"
 msgid "RMB (or Num +,-)"
-msgstr ""
-
-msgctxt "TipTerWind"
-msgid "Terrain brush window."
 msgstr ""
 
 msgctxt "InputMapThrottle"
@@ -2253,10 +2269,6 @@ msgctxt "Generator"
 msgid "Generator"
 msgstr ""
 
-msgctxt "TipRoadStats"
-msgid "Whole road statistics."
-msgstr ""
-
 msgctxt "InputUpdate"
 msgid "F8 - update track"
 msgstr ""
@@ -2493,8 +2505,8 @@ msgctxt "Reflections"
 msgid "Reflections"
 msgstr ""
 
-msgctxt "dust"
-msgid "dust"
+msgctxt "FogNormal"
+msgid "Normal"
 msgstr ""
 
 msgctxt "TipRainSnow1"
@@ -2503,10 +2515,6 @@ msgstr ""
 
 msgctxt "TipRainSnow2"
 msgid "Set 2 Rain/Snow type"
-msgstr ""
-
-msgctxt "TipDisableFog"
-msgid "Disable fog when editing road from distance."
 msgstr ""
 
 msgctxt "InputBrushOctaves"
@@ -2601,8 +2609,8 @@ msgctxt "ParAmount"
 msgid "Particle amounts"
 msgstr ""
 
-msgctxt "TipGrassLayers"
-msgid "Grass layers. Recommended use 1-4."
+msgctxt "TipFogClr"
+msgid "Fog end color when looking under sun."
 msgstr ""
 
 msgctxt "speed"
@@ -2667,10 +2675,6 @@ msgstr ""
 
 msgctxt "TipDeleteTrk"
 msgid "Permanently delete selected track."
-msgstr ""
-
-msgctxt "DeleteRoad"
-msgid "Delete Road"
 msgstr ""
 
 msgctxt "Setup"
@@ -2821,10 +2825,6 @@ msgctxt "Copy"
 msgid "Copy"
 msgstr ""
 
-msgctxt "InputObjects2"
-msgid "2 - reset scale to 1 (with shift to 0.5)"
-msgstr ""
-
 msgctxt "TipFind"
 msgid "Enter part of name to find (filters list)."
 msgstr ""
@@ -2851,10 +2851,6 @@ msgstr ""
 
 msgctxt "fluids"
 msgid "fluids (water or mud)"
-msgstr ""
-
-msgctxt "DeleteFluids"
-msgid "Delete Fluids"
 msgstr ""
 
 msgctxt "TBTime"
@@ -2897,10 +2893,6 @@ msgctxt "TBBest"
 msgid "Best"
 msgstr ""
 
-msgctxt "TipFluidsWnd"
-msgid "Fluid parameters window."
-msgstr ""
-
 msgctxt "Near"
 msgid "Near"
 msgstr ""
@@ -2915,6 +2907,10 @@ msgstr ""
 
 msgctxt "InputUndo"
 msgid "(one time undo)"
+msgstr ""
+
+msgctxt "InputObjectsMoveReset"
+msgid "shift-1 - move to cursor / reset new height"
 msgstr ""
 
 msgctxt "AllEffects"
@@ -2943,6 +2939,10 @@ msgstr ""
 
 msgctxt "StartInMain"
 msgid "Start in main menu"
+msgstr ""
+
+msgctxt "ObjBuildings"
+msgid "Buildings"
 msgstr ""
 
 msgctxt "AngleMin"
@@ -3182,7 +3182,7 @@ msgid "In game screenshot for selected track."
 msgstr ""
 
 msgctxt "InputObjectsRot"
-msgid "MMB - rotate yaw   alt-MMB - rotate roll"
+msgid "2 - Rotate local (alt- global)  LMB: Z  RMB: Y  MMB: X"
 msgstr ""
 
 msgctxt "BulletDebug"
@@ -3267,6 +3267,10 @@ msgstr ""
 
 msgctxt "InputMapShiftDown"
 msgid "Shift down"
+msgstr ""
+
+msgctxt "InputObjectsScaleReset"
+msgid "shift-3 - reset scale to 1 (with shift to 0.5)"
 msgstr ""
 
 msgctxt "FPS"
