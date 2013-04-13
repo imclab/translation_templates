@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-04-03 23:21+0300"
+"POT-Creation-Date: 2013-04-13 15:54+0200"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -165,6 +165,10 @@ msgctxt "TipVegetGroups"
 msgid "Vegetation model groups (recommended use 4-6), affects performance."
 msgstr ""
 
+msgctxt "Pipe"
+msgid "Pipe"
+msgstr ""
+
 msgctxt "Graphs"
 msgid "Graphs"
 msgstr ""
@@ -199,6 +203,10 @@ msgstr ""
 
 msgctxt "Terrain"
 msgid "Terrain"
+msgstr ""
+
+msgctxt "TipChangeGloss"
+msgid "Change car color glossiness (matte-shiny)."
 msgstr ""
 
 msgctxt "Surface"
@@ -935,6 +943,10 @@ msgstr ""
 
 msgctxt "InputRoadRebuild"
 msgid "B - rebuild road (after terrain change, etc.)"
+msgstr ""
+
+msgctxt "InputStartDir"
+msgid "Space  -  change road direction (+ or -)"
 msgstr ""
 
 msgctxt "Effects"
@@ -2045,6 +2057,10 @@ msgctxt "Road_AngleBoth"
 msgid "Both"
 msgstr ""
 
+msgctxt "Advanced"
+msgid "Advanced"
+msgstr ""
+
 msgctxt "InputObjectsMode"
 msgid "X - edit Objects"
 msgstr ""
@@ -3065,6 +3081,10 @@ msgctxt "SimModeNormal"
 msgid "Normal (simulation)"
 msgstr ""
 
+msgctxt "ColGloss"
+msgid "Glossiness"
+msgstr ""
+
 msgctxt "TipTerrainGenerate"
 msgid "Generates new terrain from noise functions using all parameters below."
 msgstr ""
@@ -3079,6 +3099,10 @@ msgstr ""
 
 msgctxt "BumpWavelen"
 msgid "Bump:  WaveLen"
+msgstr ""
+
+msgctxt "Column"
+msgid "Column"
 msgstr ""
 
 msgctxt "TipRoadDist"
@@ -3121,8 +3145,8 @@ msgctxt "InputStartHeight"
 msgid "[,]  -  adjust start box height (bigger for pipes)"
 msgstr ""
 
-msgctxt "InputStartDir"
-msgid "Space  -  change road direction (+ or -)"
+msgctxt "Wall"
+msgid "Wall"
 msgstr ""
 
 msgctxt "GrMaterial"
