@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-04-18 22:52+0300"
+"POT-Creation-Date: 2013-05-01 10:33+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -379,6 +379,10 @@ msgstr ""
 
 msgctxt "MessageBox_Retry"
 msgid "Retry"
+msgstr ""
+
+msgctxt "TipToggleTriplanar"
+msgid "When using graphics option triplanar one, this layer (one only) will have triplanar mapping."
 msgstr ""
 
 msgctxt "InputKeyboardEmulation"
@@ -827,6 +831,10 @@ msgstr ""
 
 msgctxt "PipeLStepsMul"
 msgid "Pipe L steps mul."
+msgstr ""
+
+msgctxt "Triplanar"
+msgid "Triplanar"
 msgstr ""
 
 msgctxt "View"
