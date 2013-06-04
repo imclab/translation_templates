@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-05-13 21:33+0300"
+"POT-Creation-Date: 2013-06-04 21:50+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -47,10 +47,6 @@ msgstr ""
 
 msgctxt "TipGrassSwayDistr"
 msgid "Grass sway effect distribution (how random)."
-msgstr ""
-
-msgctxt "GraphicsAll_VeryHigh"
-msgid "Very High"
 msgstr ""
 
 msgctxt "InpSet_AxisFull"
@@ -537,6 +533,10 @@ msgctxt "CarCrash"
 msgid "Car Crash"
 msgstr ""
 
+msgctxt "TipSteerSim"
+msgid "Steering range multiplier, for simulation mode (Easy,Normal)."
+msgstr ""
+
 msgctxt "LS_OBJS"
 msgid "Loading Objects"
 msgstr ""
@@ -563,10 +563,6 @@ msgstr ""
 
 msgctxt "Count"
 msgid "Count"
-msgstr ""
-
-msgctxt "InputBrushPower"
-msgid "; &apos;  (or alt-Wheel)  -  Power exponent"
 msgstr ""
 
 msgctxt "trailColor"
@@ -693,8 +689,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "Digits"
-msgid "Digits (gear, speed)"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -849,8 +845,8 @@ msgctxt "TerLAngSm"
 msgid "Angle smooth"
 msgstr ""
 
-msgctxt "InputAfterChanges"
-msgid "(after Terrain/Vegetation changes)"
+msgctxt "Digits"
+msgid "Digits (gear, speed)"
 msgstr ""
 
 msgctxt "MapSize"
@@ -1365,8 +1361,8 @@ msgctxt "Detail"
 msgid "Detail"
 msgstr ""
 
-msgctxt "InputMoveAxisTip"
-msgid "Move an axis to see its number"
+msgctxt "AllEffects"
+msgid "Effects Enabled"
 msgstr ""
 
 msgctxt "Start"
@@ -1446,7 +1442,7 @@ msgid "C - Paint Color"
 msgstr ""
 
 msgctxt "TipModelRoadDist"
-msgid "Distance from road to models (global, added to each models own value)."
+msgid "Distance from road to models (global, added to each model's own value)."
 msgstr ""
 
 msgctxt "InputRplCtrl1"
@@ -1521,12 +1517,16 @@ msgctxt "TerrainMove"
 msgid "Move"
 msgstr ""
 
+msgctxt "InputPressButtonTip"
+msgid "Press a button to see its number"
+msgstr ""
+
 msgctxt "Friction"
 msgid "Friction"
 msgstr ""
 
-msgctxt "InputTerDeform"
-msgid "D - Deform  (LMB up, RMB down)"
+msgctxt "InputAfterChanges"
+msgid "(after Terrain/Vegetation changes)"
 msgstr ""
 
 msgctxt "Ambient"
@@ -1833,8 +1833,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "ShowPictures"
@@ -2317,6 +2317,10 @@ msgctxt "InputToggleGUIMode"
 msgid "F1 or ` - GUI mode (toggle Options)"
 msgstr ""
 
+msgctxt "InpSet_AxisFullInv"
+msgid "Axis Full Inversed"
+msgstr ""
+
 msgctxt "TipGrassMaterial"
 msgid "Grass material (type) for this layer, chosen to match track's scenery."
 msgstr ""
@@ -2342,7 +2346,7 @@ msgid "Press with alt to quick access gui tab (or sub-tab). Pressing again will 
 msgstr ""
 
 msgctxt "AlignWidthMul"
-msgid "Width multipy"
+msgid "Width multiply"
 msgstr ""
 
 msgctxt "LoadingDesc"
@@ -2401,8 +2405,8 @@ msgctxt "Size"
 msgid "Size"
 msgstr ""
 
-msgctxt "Reset"
-msgid "Reset"
+msgctxt "AutoGearbox"
+msgid "Auto gearbox"
 msgstr ""
 
 msgctxt "ReplaysMenu"
@@ -2657,6 +2661,10 @@ msgctxt "speed"
 msgid "speed"
 msgstr ""
 
+msgctxt "InputMoveAxisTip"
+msgid "Move an axis to see its number"
+msgstr ""
+
 msgctxt "InputRoadYaw"
 msgid "- rotate yaw"
 msgstr ""
@@ -2705,8 +2713,8 @@ msgctxt "Change"
 msgid "Change"
 msgstr ""
 
-msgctxt "AutoGearbox"
-msgid "Auto gearbox"
+msgctxt "Reset"
+msgid "Reset"
 msgstr ""
 
 msgctxt "InputMapRestartGame"
@@ -2763,6 +2771,10 @@ msgstr ""
 
 msgctxt "TipFogStartDist"
 msgid "Fog start distance [meters]."
+msgstr ""
+
+msgctxt "InputTerDeform"
+msgid "D - Deform  (LMB up, RMB down)"
 msgstr ""
 
 msgctxt "SREditorVersion"
@@ -2957,8 +2969,8 @@ msgctxt "InputObjectsMoveReset"
 msgid "shift-1 - move to cursor / reset new height"
 msgstr ""
 
-msgctxt "AllEffects"
-msgid "Effects Enabled"
+msgctxt "InputBrushPower"
+msgid "; &apos;  (or alt-Wheel)  -  Power exponent"
 msgstr ""
 
 msgctxt "CarCollis"
@@ -3023,6 +3035,10 @@ msgstr ""
 
 msgctxt "InputTerFilter"
 msgid "F - Filter  (remove noise)"
+msgstr ""
+
+msgctxt "TipSteerSurf"
+msgid "Steering range multiplier, for surface (Gravel,Asphalt)."
 msgstr ""
 
 msgctxt "No"
@@ -3373,8 +3389,8 @@ msgctxt "CarScrap"
 msgid "Car Scrap"
 msgstr ""
 
-msgctxt "InputPressButtonTip"
-msgid "Press a button to see its number"
+msgctxt "GraphicsAll_VeryHigh"
+msgid "Very High"
 msgstr ""
 
 msgctxt "Pitch"
