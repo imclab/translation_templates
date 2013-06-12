@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-06-12 22:53+0300"
+"POT-Creation-Date: 2013-06-12 22:54+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -37,8 +37,8 @@ msgctxt "Brush_Filter"
 msgid "Filter"
 msgstr ""
 
-msgctxt "TipDustSize"
-msgid "Dust particles size."
+msgctxt "Time"
+msgid "Time"
 msgstr ""
 
 msgctxt "InputMapShowOptions"
@@ -477,8 +477,8 @@ msgctxt "Top"
 msgid "Top"
 msgstr ""
 
-msgctxt "TerUpdSkip"
-msgid "Terrain update skip"
+msgctxt "CarType_Racing"
+msgid "Racing"
 msgstr ""
 
 msgctxt "TipDisableFog"
@@ -535,6 +535,10 @@ msgstr ""
 
 msgctxt "TipSteerSim"
 msgid "Steering range multiplier, for simulation mode (Easy,Normal)."
+msgstr ""
+
+msgctxt "CarType_Gravel"
+msgid "Gravel"
 msgstr ""
 
 msgctxt "LS_OBJS"
@@ -617,8 +621,8 @@ msgctxt "InputRoadChkRadius"
 msgid "K,L  - checkpoint radius  (ChkR 0 - none)"
 msgstr ""
 
-msgctxt "Time"
-msgid "Time"
+msgctxt "TipCarSpeed"
+msgid "Car speed rating, more means faster car. Warning, on gravel too fast cars won't be faster because they don't have enough grip."
 msgstr ""
 
 msgctxt "InputRoadInsAlt"
@@ -743,6 +747,10 @@ msgstr ""
 
 msgctxt "InputRoadWidth"
 msgid "- change road width"
+msgstr ""
+
+msgctxt "TipChangeReflect"
+msgid "Change car color reflectiveness (matte-mirror)."
 msgstr ""
 
 msgctxt "filmgrain"
@@ -897,8 +905,16 @@ msgctxt "TipTerLHMax"
 msgid "Ending terrain height for layer."
 msgstr ""
 
+msgctxt "TipDustSize"
+msgid "Dust particles size."
+msgstr ""
+
 msgctxt "LS_CAR"
 msgid "Loading car"
+msgstr ""
+
+msgctxt "Author"
+msgid "Author(s)"
 msgstr ""
 
 msgctxt "MaxScale"
@@ -1133,8 +1149,8 @@ msgctxt "InputRoadMat"
 msgid "-,=  - road/pipe material  (-1 hidden)"
 msgstr ""
 
-msgctxt "InputDetailPreset"
-msgid "Set from preset"
+msgctxt "CarType_Terrain"
+msgid "Terrain"
 msgstr ""
 
 msgctxt "InputObjectsRotReset"
@@ -1349,6 +1365,10 @@ msgctxt "InputFluidsPrevNext"
 msgid "PgUp,PgDn (or Wheel) - previous/next fluid"
 msgstr ""
 
+msgctxt "CarType_Asphalt"
+msgid "Asphalt"
+msgstr ""
+
 msgctxt "Yaw"
 msgid "yaw"
 msgstr ""
@@ -1469,6 +1489,10 @@ msgctxt "Enabled"
 msgid "Enabled"
 msgstr ""
 
+msgctxt "TipCarType"
+msgid "Car type, primary destination. But some cars can be used on gravel even if not meant for it."
+msgstr ""
+
 msgctxt "RollingDrag"
 msgid "Rolling Drag"
 msgstr ""
@@ -1587,6 +1611,10 @@ msgstr ""
 
 msgctxt "HDRIntensity"
 msgid "Bloom Intensity"
+msgstr ""
+
+msgctxt "ColReflect"
+msgid "Reflection"
 msgstr ""
 
 msgctxt "Development"
@@ -2257,6 +2285,10 @@ msgctxt "InputCamControl2"
 msgid "LMB - rotate  RMB - move  MMB - zoom"
 msgstr ""
 
+msgctxt "CarType_Slow"
+msgid "Slow"
+msgstr ""
+
 msgctxt "Diff5"
 msgid "Very Hard"
 msgstr ""
@@ -2553,6 +2585,10 @@ msgctxt "FogNormal"
 msgid "Normal"
 msgstr ""
 
+msgctxt "TipTerErrorNorm"
+msgid "Default terrain error in percent. Less for flat, more for high terrains."
+msgstr ""
+
 msgctxt "TipRainSnow1"
 msgid "Set 1 Rain/Snow type"
 msgstr ""
@@ -2689,6 +2725,10 @@ msgctxt "RplGhosts"
 msgid "Ghosts"
 msgstr ""
 
+msgctxt "CarType"
+msgid "Type"
+msgstr ""
+
 msgctxt "InputReturnDelay"
 msgid "Return speed"
 msgstr ""
@@ -2737,8 +2777,8 @@ msgctxt "TipDisableWeather"
 msgid "Disable weather particles."
 msgstr ""
 
-msgctxt "TipTerErrorNorm"
-msgid "Default terrain error in percent. Less for flat, more for high terrains."
+msgctxt "TerUpdSkip"
+msgid "Terrain update skip"
 msgstr ""
 
 msgctxt "Length"
@@ -3133,6 +3173,10 @@ msgctxt "TipTerrainGenerate"
 msgid "Generates new terrain from noise functions using all parameters below."
 msgstr ""
 
+msgctxt "InputDetailPreset"
+msgid "Set from preset"
+msgstr ""
+
 msgctxt "TipRainSnowInt"
 msgid "Rain/Snow intensity (eg. 1000)"
 msgstr ""
@@ -3183,6 +3227,10 @@ msgstr ""
 
 msgctxt "Left"
 msgid "Left"
+msgstr ""
+
+msgctxt "CarSpeed"
+msgid "Speed"
 msgstr ""
 
 msgctxt "InputStartHeight"
@@ -3251,6 +3299,10 @@ msgstr ""
 
 msgctxt "InputObjectsRot"
 msgid "2 - Rotate local (alt- global)  LMB: Z  RMB: Y  MMB: X"
+msgstr ""
+
+msgctxt "CarType_Other"
+msgid "Other"
 msgstr ""
 
 msgctxt "BulletDebug"
@@ -3375,6 +3427,10 @@ msgstr ""
 
 msgctxt "InputBrushOffset"
 msgid "9,0  -  noise generate Offset (position)"
+msgstr ""
+
+msgctxt "CarYear"
+msgid "Year"
 msgstr ""
 
 msgctxt "TipFogEndDist"
