@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-06-25 20:00+0300"
+"POT-Creation-Date: 2013-06-28 23:21+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -689,8 +689,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "SteerRange"
-msgid "Steering range multipliers"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -799,6 +799,10 @@ msgstr ""
 
 msgctxt "InputMain"
 msgid "Main"
+msgstr ""
+
+msgctxt "InputRoadMerge"
+msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "Players"
@@ -971,6 +975,10 @@ msgstr ""
 
 msgctxt "WidthSteps"
 msgid "Width Steps"
+msgstr ""
+
+msgctxt "Multiply"
+msgid "Multiply"
 msgstr ""
 
 msgctxt "GrassSway"
@@ -1841,6 +1849,10 @@ msgctxt "Tracks"
 msgid "Tracks"
 msgstr ""
 
+msgctxt "Brush_ShapeN-gon"
+msgid "N-gon"
+msgstr ""
+
 msgctxt "Brush_CurrentH"
 msgid "Curr.H"
 msgstr ""
@@ -1861,8 +1873,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "ShowPictures"
@@ -2341,6 +2353,10 @@ msgctxt "Generator"
 msgid "Generator"
 msgstr ""
 
+msgctxt "InputTopView"
+msgid "Alt-Z - toggle top view"
+msgstr ""
+
 msgctxt "InputUpdate"
 msgid "F8 - update track"
 msgstr ""
@@ -2497,8 +2513,8 @@ msgctxt "InputRoadColumn"
 msgid "End - on/off column"
 msgstr ""
 
-msgctxt "InputRoadMerge"
-msgid "M - toggle road merge segs (for test)"
+msgctxt "Substract"
+msgid "Substract"
 msgstr ""
 
 msgctxt "Brush_Height"
@@ -2507,6 +2523,10 @@ msgstr ""
 
 msgctxt "Objects"
 msgid "Objects"
+msgstr ""
+
+msgctxt "CheckBeam"
+msgid "Next checkpoint beam"
 msgstr ""
 
 msgctxt "set1"
@@ -2957,6 +2977,10 @@ msgctxt "ColHue"
 msgid "Color - Hue"
 msgstr ""
 
+msgctxt "Brush_ShapeNoise2"
+msgid "Noise2"
+msgstr ""
+
 msgctxt "fluids"
 msgid "fluids (water or mud)"
 msgstr ""
@@ -3105,12 +3129,20 @@ msgctxt "RplSave"
 msgid "Save"
 msgstr ""
 
+msgctxt "InputContextHelp"
+msgid "Ctrl-F1 - context help page"
+msgstr ""
+
 msgctxt "Environment"
 msgid "Environment"
 msgstr ""
 
 msgctxt "InputRoadAlignTerrain"
 msgid "U - Align terrain to road (for selected segments)"
+msgstr ""
+
+msgctxt "Add"
+msgid "Add"
 msgstr ""
 
 msgctxt "GraphicsAll_High"
