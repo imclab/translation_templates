@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-06-28 23:21+0300"
+"POT-Creation-Date: 2013-07-01 11:00+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -259,6 +259,10 @@ msgstr ""
 
 msgctxt "Game name"
 msgid "Game name"
+msgstr ""
+
+msgctxt "TipSliderReset"
+msgid "RMB on slider - reset to default value."
 msgstr ""
 
 msgctxt "HUD"
@@ -675,6 +679,10 @@ msgstr ""
 
 msgctxt "Video"
 msgid "Video"
+msgstr ""
+
+msgctxt "TipBrushPick"
+msgid "shift-LMB - on Brushes, pick only shape (don't change mode)."
 msgstr ""
 
 msgctxt "ViewStart"
@@ -2093,6 +2101,10 @@ msgctxt "NetMasterConnectionError"
 msgid "Couldn't reach the master server."
 msgstr ""
 
+msgctxt "ChampInfo"
+msgid "In tutorial/championship mode you drive a series of tracks. Minimum score (depending on your time) is needed to pass to next stage. Car changing is possible."
+msgstr ""
+
 msgctxt "TipTerrainDouble"
 msgid "Make terrain size double, leaving current heightmap part in center."
 msgstr ""
@@ -2219,6 +2231,10 @@ msgstr ""
 
 msgctxt "objects"
 msgid "objects (dynamic)"
+msgstr ""
+
+msgctxt "RplGhostOther"
+msgid "Other car ghost (when current unavailable)"
 msgstr ""
 
 msgctxt "Yes"
