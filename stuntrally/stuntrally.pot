@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-07-07 17:56+0300"
+"POT-Creation-Date: 2013-07-08 18:57+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -99,6 +99,10 @@ msgstr ""
 
 msgctxt "CamSpeed"
 msgid "Camera speed"
+msgstr ""
+
+msgctxt "Warnings"
+msgid "Warnings"
 msgstr ""
 
 msgctxt "UnitKmh"
@@ -977,6 +981,10 @@ msgctxt "InputStartDir"
 msgid "Space  -  change road direction (+ or -)"
 msgstr ""
 
+msgctxt "CheckOnLoad"
+msgid "Check on load"
+msgstr ""
+
 msgctxt "Effects"
 msgid "Effects"
 msgstr ""
@@ -1839,6 +1847,10 @@ msgstr ""
 
 msgctxt "InputIncreaseSensitivity"
 msgid "Sensitivity"
+msgstr ""
+
+msgctxt "CheckOnSave"
+msgid "Check on save"
 msgstr ""
 
 msgctxt "GraphicsAllSettings"
@@ -3207,6 +3219,10 @@ msgstr ""
 
 msgctxt "PipeWStepsMul"
 msgid "Pipe W steps mul."
+msgstr ""
+
+msgctxt "WarningsInfo"
+msgid "Console for track errors, warnings and hints."
 msgstr ""
 
 msgctxt "RplLoad"
