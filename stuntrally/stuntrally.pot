@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-07-08 18:57+0300"
+"POT-Creation-Date: 2013-07-11 19:41+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -43,6 +43,10 @@ msgstr ""
 
 msgctxt "InputMapShowOptions"
 msgid "Show options"
+msgstr ""
+
+msgctxt "Damage"
+msgid "Damage"
 msgstr ""
 
 msgctxt "TipGrassSwayDistr"
@@ -153,8 +157,8 @@ msgctxt "TipLTrFlDepth"
 msgid "Maximal depth in fluid allowed (set 0 to exclude from fluids)."
 msgstr ""
 
-msgctxt "TipLTrMinTerH"
-msgid "Terrain height below which model won't appear."
+msgctxt "InputRoadMerge"
+msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "TreeDens"
@@ -701,8 +705,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -755,6 +759,10 @@ msgstr ""
 
 msgctxt "InputRoadWidth"
 msgid "- change road width"
+msgstr ""
+
+msgctxt "TipLTrMinTerH"
+msgid "Terrain height below which model won't appear."
 msgstr ""
 
 msgctxt "TipChangeReflect"
@@ -811,10 +819,6 @@ msgstr ""
 
 msgctxt "InputMain"
 msgid "Main"
-msgstr ""
-
-msgctxt "InputRoadMerge"
-msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "Players"
@@ -1229,8 +1233,8 @@ msgctxt "NetWaiting"
 msgid "Waiting..."
 msgstr ""
 
-msgctxt "MergeLength"
-msgid "Merge length"
+msgctxt "Development"
+msgid "Development"
 msgstr ""
 
 msgctxt "SetCamTo"
@@ -1271,6 +1275,10 @@ msgstr ""
 
 msgctxt "NetRefreshList"
 msgid "Get/refresh list"
+msgstr ""
+
+msgctxt "None"
+msgid "None"
 msgstr ""
 
 msgctxt "MessageBox_Abort"
@@ -1617,6 +1625,10 @@ msgctxt "TrackPipes"
 msgid "Pipes"
 msgstr ""
 
+msgctxt "MergeLength"
+msgid "Merge length"
+msgstr ""
+
 msgctxt "godrays"
 msgid "God Rays"
 msgstr ""
@@ -1645,8 +1657,8 @@ msgctxt "ColReflect"
 msgid "Reflection"
 msgstr ""
 
-msgctxt "Development"
-msgid "Development"
+msgctxt "TrackWidthAvg"
+msgid "Width avg."
 msgstr ""
 
 msgctxt "InputRoadIns"
@@ -1759,10 +1771,6 @@ msgstr ""
 
 msgctxt "GameBy"
 msgid "A game by"
-msgstr ""
-
-msgctxt "TrackWidthAvg"
-msgid "Width avg."
 msgstr ""
 
 msgctxt "SunWeather"
@@ -1897,8 +1905,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "SteerRange"
-msgid "Steering range multipliers"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "ShowPictures"
@@ -2865,6 +2873,10 @@ msgctxt "TextColor"
 msgid "Text color"
 msgstr ""
 
+msgctxt "Reduced"
+msgid "Reduced"
+msgstr ""
+
 msgctxt "CarDebugText"
 msgid "Car debug text "
 msgstr ""
@@ -3041,6 +3053,10 @@ msgctxt "TotalScore"
 msgid "Total score"
 msgstr ""
 
+msgctxt "InputLoadNextTrack"
+msgid "F12 - load next track (shift - previous)"
+msgstr ""
+
 msgctxt "TipModelPrev"
 msgid "Model preview image."
 msgstr ""
@@ -3195,6 +3211,10 @@ msgstr ""
 
 msgctxt "TipImpDist"
 msgid "Far distance at which the 2d impostors dissapear."
+msgstr ""
+
+msgctxt "Normal"
+msgid "Normal"
 msgstr ""
 
 msgctxt "InputMapGeneral"
