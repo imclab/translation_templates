@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-07-11 19:41+0300"
+"POT-Creation-Date: 2013-07-24 19:34+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -157,8 +157,8 @@ msgctxt "TipLTrFlDepth"
 msgid "Maximal depth in fluid allowed (set 0 to exclude from fluids)."
 msgstr ""
 
-msgctxt "InputRoadMerge"
-msgid "M - toggle road merge segs (for test)"
+msgctxt "TipLTrMinTerH"
+msgid "Terrain height below which model won't appear."
 msgstr ""
 
 msgctxt "TreeDens"
@@ -167,6 +167,10 @@ msgstr ""
 
 msgctxt "TipVegetGroups"
 msgid "Vegetation model groups (recommended use 4-6), affects performance."
+msgstr ""
+
+msgctxt "TBPosition"
+msgid "Position"
 msgstr ""
 
 msgctxt "Pipe"
@@ -371,10 +375,6 @@ msgstr ""
 
 msgctxt "DistToRoad"
 msgid "dist. to road"
-msgstr ""
-
-msgctxt "TBPlace"
-msgid "Place"
 msgstr ""
 
 msgctxt "AngleMax"
@@ -705,8 +705,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "SteerRange"
-msgid "Steering range multipliers"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -759,10 +759,6 @@ msgstr ""
 
 msgctxt "InputRoadWidth"
 msgid "- change road width"
-msgstr ""
-
-msgctxt "TipLTrMinTerH"
-msgid "Terrain height below which model won't appear."
 msgstr ""
 
 msgctxt "TipChangeReflect"
@@ -819,6 +815,10 @@ msgstr ""
 
 msgctxt "InputMain"
 msgid "Main"
+msgstr ""
+
+msgctxt "InputRoadMerge"
+msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "Players"
@@ -1145,8 +1145,8 @@ msgctxt "CountdownTime"
 msgid "Race countdown time"
 msgstr ""
 
-msgctxt "ObjStatic"
-msgid "Static"
+msgctxt "Ghost"
+msgid "Ghost"
 msgstr ""
 
 msgctxt "InputRoadSelectMany"
@@ -1801,8 +1801,8 @@ msgctxt "MinimapTerrain"
 msgid "Terrain"
 msgstr ""
 
-msgctxt "CameraAutoTilt"
-msgid "Camera auto tilt on slopes"
+msgctxt "MinimapRotate"
+msgid "Rotate"
 msgstr ""
 
 msgctxt "TrackHeightDiff"
@@ -1825,8 +1825,8 @@ msgctxt "TipTerLAngMax"
 msgid "Ending terrain angle for layer."
 msgstr ""
 
-msgctxt "TipGrassSwaySpd"
-msgid "Grass sway effect speed."
+msgctxt "TBPoints"
+msgid "Points"
 msgstr ""
 
 msgctxt "SimModeEasy"
@@ -1905,8 +1905,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "ShowPictures"
@@ -2161,6 +2161,10 @@ msgctxt "TipGrassVisDist"
 msgid "Visibility distance for grass pages."
 msgstr ""
 
+msgctxt "TracksGhost"
+msgid "Track's ghost (ES car best drive for track)"
+msgstr ""
+
 msgctxt "TipNewDup"
 msgid "Create a new track by duplicating the selected track and using new name (change name first)."
 msgstr ""
@@ -2249,10 +2253,6 @@ msgctxt "RplTime"
 msgid "Time"
 msgstr ""
 
-msgctxt "MinimapRotate"
-msgid "Rotate"
-msgstr ""
-
 msgctxt "objects"
 msgid "objects (dynamic)"
 msgstr ""
@@ -2299,6 +2299,10 @@ msgstr ""
 
 msgctxt "GraphicsAll_Impossible"
 msgid "Impossible"
+msgstr ""
+
+msgctxt "ObjStatic"
+msgid "Static"
 msgstr ""
 
 msgctxt "TerrainBrush"
@@ -2517,8 +2521,16 @@ msgctxt "Back"
 msgid "Back"
 msgstr ""
 
+msgctxt "TipGrassSwaySpd"
+msgid "Grass sway effect speed."
+msgstr ""
+
 msgctxt "RplRecTime"
 msgid "Recorded   time"
+msgstr ""
+
+msgctxt "CameraAutoTilt"
+msgid "Camera auto tilt on slopes"
 msgstr ""
 
 msgctxt "InputFocusFind"
