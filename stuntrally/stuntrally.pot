@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-08-04 20:17+0300"
+"POT-Creation-Date: 2013-08-05 21:12+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -157,8 +157,8 @@ msgctxt "TipLTrFlDepth"
 msgid "Maximal depth in fluid allowed (set 0 to exclude from fluids)."
 msgstr ""
 
-msgctxt "TipLTrMinTerH"
-msgid "Terrain height below which model won't appear."
+msgctxt "InputRoadMerge"
+msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "TreeDens"
@@ -713,8 +713,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -767,6 +767,10 @@ msgstr ""
 
 msgctxt "InputRoadWidth"
 msgid "- change road width"
+msgstr ""
+
+msgctxt "TipLTrMinTerH"
+msgid "Terrain height below which model won't appear."
 msgstr ""
 
 msgctxt "TipChangeReflect"
@@ -823,10 +827,6 @@ msgstr ""
 
 msgctxt "InputMain"
 msgid "Main"
-msgstr ""
-
-msgctxt "InputRoadMerge"
-msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "Players"
@@ -1917,8 +1917,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "SteerRange"
-msgid "Steering range multipliers"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "ShowPictures"
