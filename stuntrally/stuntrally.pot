@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-08-05 21:12+0300"
+"POT-Creation-Date: 2013-08-11 22:10+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -205,8 +205,8 @@ msgctxt "InputValueChange"
 msgid "Each (mouse/key) move or value change with "
 msgstr ""
 
-msgctxt "Terrain"
-msgid "Terrain"
+msgctxt "TipOneAxisThrottleBrake"
+msgid "If your controller has throttle and brake in one axis, check this. Bind axis to throttle, unbind brake. Use Inverse from throttle if needed."
 msgstr ""
 
 msgctxt "TipChangeGloss"
@@ -575,6 +575,10 @@ msgstr ""
 
 msgctxt "MinimapZoom"
 msgid "Zoom"
+msgstr ""
+
+msgctxt "OneAxisThrottleBrake"
+msgid "One axis for throttle and brake"
 msgstr ""
 
 msgctxt "ViewRight"
@@ -1181,8 +1185,8 @@ msgctxt "TipGrassPatchHeightMin"
 msgid "Minimal grass patch height."
 msgstr ""
 
-msgctxt "InputRoadMat"
-msgid "-,=  - road/pipe material  (-1 hidden)"
+msgctxt "Terrain"
+msgid "Terrain"
 msgstr ""
 
 msgctxt "CarType_Terrain"
@@ -1911,6 +1915,10 @@ msgstr ""
 
 msgctxt "InputToggleVeget"
 msgid "V - Disable / enable vegetation"
+msgstr ""
+
+msgctxt "InputRoadMat"
+msgid "-,=  - road/pipe material  (-1 hidden)"
 msgstr ""
 
 msgctxt "TexCoordMul"
