@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-08-11 22:10+0300"
+"POT-Creation-Date: 2013-08-19 19:50+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -595,6 +595,10 @@ msgstr ""
 
 msgctxt "UnitKm"
 msgid "km"
+msgstr ""
+
+msgctxt "InputUndo"
+msgid "(one time undo)"
 msgstr ""
 
 msgctxt "InputRoadHeight"
@@ -1355,6 +1359,10 @@ msgstr ""
 
 msgctxt "TipModelPageLength"
 msgid "Models Page length (low will reload often and make too many batches, high will cause visible switching and make too many drawn triangles)."
+msgstr ""
+
+msgctxt "ReverseStartOrder"
+msgid "Reverse starting order"
 msgstr ""
 
 msgctxt "LightmapSize"
@@ -3121,8 +3129,8 @@ msgctxt "InputMultiplier"
 msgid "Multiplier"
 msgstr ""
 
-msgctxt "InputUndo"
-msgid "(one time undo)"
+msgctxt "InputMapShiftDown"
+msgid "Shift down"
 msgstr ""
 
 msgctxt "InputObjectsMoveReset"
@@ -3521,8 +3529,8 @@ msgctxt "TrackDifficulties"
 msgid "Various Track Difficulties"
 msgstr ""
 
-msgctxt "InputMapShiftDown"
-msgid "Shift down"
+msgctxt "NetNew"
+msgid "New game"
 msgstr ""
 
 msgctxt "InputObjectsScaleReset"
