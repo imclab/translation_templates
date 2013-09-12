@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-08-27 22:40+0300"
+"POT-Creation-Date: 2013-09-12 22:02+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -157,8 +157,8 @@ msgctxt "Prize"
 msgid "Prize"
 msgstr ""
 
-msgctxt "TipLTrMinTerH"
-msgid "Terrain height below which model won't appear."
+msgctxt "InputRoadMerge"
+msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "TreeDens"
@@ -205,8 +205,8 @@ msgctxt "InputValueChange"
 msgid "Each (mouse/key) move or value change with "
 msgstr ""
 
-msgctxt "TipOneAxisThrottleBrake"
-msgid "If your controller has throttle and brake in one axis, check this. Bind axis to throttle, unbind brake. Use Inverse from throttle if needed."
+msgctxt "Chall_Rally"
+msgid "Rally"
 msgstr ""
 
 msgctxt "TipChangeGloss"
@@ -221,8 +221,8 @@ msgctxt "ChallEndFinished"
 msgid "You have passed this challenge."
 msgstr ""
 
-msgctxt "Allowed"
-msgid "Allowed"
+msgctxt "TBScore"
+msgid "Score"
 msgstr ""
 
 msgctxt "MinimapUpdSkip"
@@ -305,8 +305,8 @@ msgctxt "pipes"
 msgid "pipes"
 msgstr ""
 
-msgctxt "InputFluidsTile"
-msgid "[,]  - change texture tiling"
+msgctxt "CarTireVisCircles"
+msgid "Tire force circles visualisation"
 msgstr ""
 
 msgctxt "InputFluidsUpdate"
@@ -403,6 +403,10 @@ msgstr ""
 
 msgctxt "TBLast"
 msgid "Last"
+msgstr ""
+
+msgctxt "Chall_Chase"
+msgid "Chase"
 msgstr ""
 
 msgctxt "InputMaxVal"
@@ -725,8 +729,8 @@ msgctxt "SSS_SpeedFactor"
 msgid "Speed Factor"
 msgstr ""
 
-msgctxt "Shadows"
-msgid "Shadows"
+msgctxt "SteerRange"
+msgid "Steering range multipliers"
 msgstr ""
 
 msgctxt "MessageBox_Try"
@@ -739,6 +743,10 @@ msgstr ""
 
 msgctxt "InputKeyAllPreset"
 msgid "Set all from preset"
+msgstr ""
+
+msgctxt "Chall_Endurance"
+msgid "Endurance"
 msgstr ""
 
 msgctxt "InpSet_Slow"
@@ -783,6 +791,10 @@ msgstr ""
 
 msgctxt "InputRoadWidth"
 msgid "- change road width"
+msgstr ""
+
+msgctxt "TipLTrMinTerH"
+msgid "Terrain height below which model won't appear."
 msgstr ""
 
 msgctxt "TipChangeReflect"
@@ -839,10 +851,6 @@ msgstr ""
 
 msgctxt "InputMain"
 msgid "Main"
-msgstr ""
-
-msgctxt "InputRoadMerge"
-msgid "M - toggle road merge segs (for test)"
 msgstr ""
 
 msgctxt "Players"
@@ -1193,8 +1201,8 @@ msgctxt "TipGrassPatchHeightMin"
 msgid "Minimal grass patch height."
 msgstr ""
 
-msgctxt "Terrain"
-msgid "Terrain"
+msgctxt "TipOneAxisThrottleBrake"
+msgid "If your controller has throttle and brake in one axis, check this. Bind axis to throttle, unbind brake. Use Inverse from throttle if needed."
 msgstr ""
 
 msgctxt "CarType_Terrain"
@@ -1313,8 +1321,8 @@ msgctxt "Grasses"
 msgid "Grasses"
 msgstr ""
 
-msgctxt "TBScore"
-msgid "Score"
+msgctxt "Allowed"
+msgid "Allowed"
 msgstr ""
 
 msgctxt "HDRAdaptationScale"
@@ -1621,6 +1629,10 @@ msgctxt "InputAfterChanges"
 msgid "(after Terrain/Vegetation changes)"
 msgstr ""
 
+msgctxt "InputFluidsTile"
+msgid "[,]  - change texture tiling"
+msgstr ""
+
 msgctxt "Ambient"
 msgid "Ambient"
 msgstr ""
@@ -1633,8 +1645,8 @@ msgctxt "InputRoadNotOnTer"
 msgid "when not on terrain"
 msgstr ""
 
-msgctxt "ApplyShadows"
-msgid "Apply Shadows"
+msgctxt "ChampEndCongrats"
+msgid "Congratulations !"
 msgstr ""
 
 msgctxt "TipGrassColorMap"
@@ -1957,8 +1969,8 @@ msgctxt "TexCoordMul"
 msgid "Tex Coord mul."
 msgstr ""
 
-msgctxt "SteerRange"
-msgid "Steering range multipliers"
+msgctxt "Shadows"
+msgid "Shadows"
 msgstr ""
 
 msgctxt "ShowPictures"
@@ -1975,6 +1987,10 @@ msgstr ""
 
 msgctxt "TrackAvgSpeed"
 msgid "Avg. speed"
+msgstr ""
+
+msgctxt "Chall_Extreme"
+msgid "Extreme"
 msgstr ""
 
 msgctxt "PreviewCam"
@@ -2325,8 +2341,8 @@ msgctxt "Yes"
 msgid "Yes"
 msgstr ""
 
-msgctxt "ChampEndCongrats"
-msgid "Congratulations !"
+msgctxt "ApplyShadows"
+msgid "Apply Shadows"
 msgstr ""
 
 msgctxt "Tutorial"
@@ -3285,6 +3301,10 @@ msgctxt "GraphicsAll_High"
 msgid "High"
 msgstr ""
 
+msgctxt "Chall_Stunts"
+msgid "Stunts"
+msgstr ""
+
 msgctxt "Vegetation"
 msgid "Vegetation"
 msgstr ""
@@ -3643,6 +3663,10 @@ msgstr ""
 
 msgctxt "GraphicsAll_VeryHigh"
 msgid "Very High"
+msgstr ""
+
+msgctxt "Terrain"
+msgid "Terrain"
 msgstr ""
 
 msgctxt "Pitch"
