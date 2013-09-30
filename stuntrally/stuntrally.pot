@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-09-12 22:02+0300"
+"POT-Creation-Date: 2013-09-30 20:11+0300"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -1829,6 +1829,10 @@ msgctxt "SunWeather"
 msgid "Sun and Weather"
 msgstr ""
 
+msgctxt "GraphicsPreset"
+msgid "Graphics preset"
+msgstr ""
+
 msgctxt "InputBrushForce"
 msgid "[,]  (or shift-Wheel)  -  Force (intensity)"
 msgstr ""
@@ -1911,10 +1915,6 @@ msgstr ""
 
 msgctxt "CheckOnSave"
 msgid "Check on save"
-msgstr ""
-
-msgctxt "GraphicsAllSettings"
-msgid "Change all graphics settings to preset:"
 msgstr ""
 
 msgctxt "TreeMult"
@@ -2381,8 +2381,8 @@ msgctxt "ObjStatic"
 msgid "Static"
 msgstr ""
 
-msgctxt "TerrainBrush"
-msgid "Terrain brush"
+msgctxt "Layout"
+msgid "Layout"
 msgstr ""
 
 msgctxt "TipTexNormAuto"
@@ -3083,6 +3083,10 @@ msgstr ""
 
 msgctxt "Editor"
 msgid "Editor"
+msgstr ""
+
+msgctxt "TerrainBrush"
+msgid "Terrain brush"
 msgstr ""
 
 msgctxt "TipTrkViewDetailed"
