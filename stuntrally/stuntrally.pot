@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-10-31 20:22+0200"
+"POT-Creation-Date: 2013-11-04 23:00+0200"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -190,7 +190,11 @@ msgid "* need New Game"
 msgstr ""
 
 msgctxt "InputRoadAngZero"
-msgid "shift-6  - zero angles"
+msgid "alt-shift-1  - zero angles"
+msgstr ""
+
+msgctxt "InputRoadChkCtrl"
+msgid "with ctrl - force custom radius"
 msgstr ""
 
 msgctxt "TipTrackImg"
@@ -313,8 +317,8 @@ msgctxt "InputFluidsUpdate"
 msgid "F10  - update depth map, after terrain deform near shore"
 msgstr ""
 
-msgctxt "InputHeaderTxt1"
-msgid "Action"
+msgctxt "TBLapResults"
+msgid "Lap Results"
 msgstr ""
 
 msgctxt "DepthOfField"
@@ -403,6 +407,10 @@ msgstr ""
 
 msgctxt "TBLast"
 msgid "Last"
+msgstr ""
+
+msgctxt "TrackBankAng"
+msgid "Road banking angles: average and maximum, in degrees."
 msgstr ""
 
 msgctxt "Chall_Chase"
@@ -526,7 +534,7 @@ msgid "No joystick"
 msgstr ""
 
 msgctxt "InputRoadAngType"
-msgid "5,6   - angles type"
+msgid "alt-1,2   - angles type"
 msgstr ""
 
 msgctxt "NetMasterPort"
@@ -1057,8 +1065,8 @@ msgctxt "Sound"
 msgid "Sound"
 msgstr ""
 
-msgctxt "InputFluidsIns"
-msgid "Ins - insert new, default fluid at cursor"
+msgctxt "CameraLoopChange"
+msgid "Camera change in loops"
 msgstr ""
 
 msgctxt "NewTerrainFlat"
@@ -1285,6 +1293,10 @@ msgctxt "TipNewGameCar"
 msgid "Restart game."
 msgstr ""
 
+msgctxt "Road_Loop"
+msgid "Loop"
+msgstr ""
+
 msgctxt "TipGrassPatchLengthMax"
 msgid "Maximal grass patch length."
 msgstr ""
@@ -1383,6 +1395,10 @@ msgstr ""
 
 msgctxt "ReverseStartOrder"
 msgid "Reverse starting order"
+msgstr ""
+
+msgctxt "InputHeaderTxt1"
+msgid "Action"
 msgstr ""
 
 msgctxt "LightmapSize"
@@ -2282,7 +2298,7 @@ msgid "alt-LMB - rotate   alt-RMB - pitch"
 msgstr ""
 
 msgctxt "InputRoadAngSnap"
-msgid "7,8   - angles snap"
+msgid "5,6   - angles snap"
 msgstr ""
 
 msgctxt "TerGenOfsX"
@@ -2521,6 +2537,10 @@ msgctxt "CarStartPos"
 msgid "Car Start Pos"
 msgstr ""
 
+msgctxt "ObjRocks"
+msgid "Rocks"
+msgstr ""
+
 msgctxt "ShortcutsInfo"
 msgid "Press with alt to quick access gui tab (or sub-tab). Pressing again will cycle sub-tabs (if any)."
 msgstr ""
@@ -2611,6 +2631,10 @@ msgstr ""
 
 msgctxt "Back"
 msgid "Back"
+msgstr ""
+
+msgctxt "InputFluidsIns"
+msgid "Ins - insert new, default fluid at cursor"
 msgstr ""
 
 msgctxt "TipGrassSwaySpd"
@@ -2857,6 +2881,10 @@ msgctxt "InputReadyToPlay"
 msgid "(ready to play in game)"
 msgstr ""
 
+msgctxt "InputRoadLoopChk"
+msgid "7   - mark checkpoint as loop begin/end (for car camera change)"
+msgstr ""
+
 msgctxt "TipSurfFrict"
 msgid "Surface friction (eg. 1.0 asphalt, 0.7 gravel, 0.5 ice)."
 msgstr ""
@@ -2967,6 +2995,10 @@ msgstr ""
 
 msgctxt "HeightOffset"
 msgid "Height offset"
+msgstr ""
+
+msgctxt "Road_OnPipe"
+msgid "On Pipe"
 msgstr ""
 
 msgctxt "Amplitude"
@@ -3115,6 +3147,10 @@ msgstr ""
 
 msgctxt "TipFind"
 msgid "Enter part of name to find (filters list)."
+msgstr ""
+
+msgctxt "InputRoadOnPipe"
+msgid "8   - mark as driven on pipe"
 msgstr ""
 
 msgctxt "scale"
