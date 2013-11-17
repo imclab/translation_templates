@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION"
 "Report-Msgid-Bugs-To: "
-"POT-Creation-Date: 2013-11-06 23:40+0200"
+"POT-Creation-Date: 2013-11-17 17:24+0200"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>"
 "Language-Team: LANGUAGE <LL@li.org>"
@@ -227,6 +227,10 @@ msgstr ""
 
 msgctxt "TBScore"
 msgid "Score"
+msgstr ""
+
+msgctxt "DevKeys"
+msgid "Developer keys. Ctrl-F global, Alt-shift-1..6 load test tracks."
 msgstr ""
 
 msgctxt "MinimapUpdSkip"
@@ -1169,6 +1173,10 @@ msgctxt "TerrainHalf"
 msgid "Half"
 msgstr ""
 
+msgctxt "ChallInfo2"
+msgid "Challenges are short but usually difficult to pass."
+msgstr ""
+
 msgctxt "GrColorMap"
 msgid "Color map"
 msgstr ""
@@ -1515,6 +1523,10 @@ msgstr ""
 
 msgctxt "InputObjectsPrevNext"
 msgid "PgUp,PgDn (or Wheel) - previous/next object"
+msgstr ""
+
+msgctxt "AllowSaveOrigTrk"
+msgid "Allow saving original tracks"
 msgstr ""
 
 msgctxt "TimesBar"
@@ -1887,6 +1899,10 @@ msgstr ""
 
 msgctxt "MinimapRotate"
 msgid "Rotate"
+msgstr ""
+
+msgctxt "TutorInfo"
+msgid "Tutorials have just a few tracks. They are easy to pass and show various track elements."
 msgstr ""
 
 msgctxt "TrackHeightDiff"
@@ -2505,6 +2521,10 @@ msgctxt "Generator"
 msgid "Generator"
 msgstr ""
 
+msgctxt "InputObjectsPaste"
+msgid "shift-Ins - paste copied"
+msgstr ""
+
 msgctxt "InputTopView"
 msgid "Alt-Z - toggle top view"
 msgstr ""
@@ -2963,6 +2983,10 @@ msgstr ""
 
 msgctxt "Reset"
 msgid "Reset"
+msgstr ""
+
+msgctxt "InputObjectsCopySel"
+msgid "ctrl-Ins - copy selection"
 msgstr ""
 
 msgctxt "InputMapRestartGame"
@@ -3455,6 +3479,10 @@ msgstr ""
 
 msgctxt "TipRoadDist"
 msgid "How far from road will the model appear."
+msgstr ""
+
+msgctxt "ChampInfo2"
+msgid "Championships are usually long, have many tracks, but are easy to pass."
 msgstr ""
 
 msgctxt "EnterSave"
